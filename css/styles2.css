@@ -1,0 +1,79 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    }
+    
+    .common {
+        border: 3px solid white;
+        position: absolute;
+    }
+    .uncommon{
+        border: 3px solid rgb(15, 102, 202);;
+        position: absolute;
+    }
+    
+    .header {
+        top: 5px;
+        left: 5px;
+        right: 5px;
+        height: 100px;
+    }
+    
+    .leftmenu {
+        top: 114px;
+        left: 5px;
+        width: 100px;
+        height: 1850px;
+    }
+    
+    .mainbody {
+        top: 114px;
+        left: 114px;
+        right: 114px;
+        height: 750px;
+        
+    }
+    
+    .mainbody2 {
+        top: 900px;
+        left: 114px;
+        right: 114px;
+        height: 800px;
+        background-color: aliceblue;
+    }
+
+    .mainbody3 {
+        top: 1550px;
+        left: 114px;
+        right: 114px;
+        height: 500px;
+        background-color: aliceblue;
+    }
+    .rightmenu {
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    height: 1850px;
+    }
+    .footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8px;
+    color: black;
+    text-align: center;
+    padding-top: 15px;
+    
+    }
+
+    .these {
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: rgb(15, 102, 202);
+ font-weight: bolder;
+
+    }
+
+    .caption{
+font-size: small;
+    }
